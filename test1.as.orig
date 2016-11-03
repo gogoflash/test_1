@@ -1,0 +1,12 @@
+test 1 file
+test 2
+test 3
+test branch 
+
+<<<<<<< HEAD
+change home 1
+change weeb
+=======
+change home
+change weeb 1
+>>>>>>> 16acac688495fcbe964b2e13656d26944da01eb1
